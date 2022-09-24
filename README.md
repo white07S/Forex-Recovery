@@ -5,4 +5,4 @@ Considering the current situation of EURO and British Pounds had fallen by **13.
 There are different reasons for that but excluding the intuition and geo-political situation we can dig into data analytics to find what could be the recovery rate
 
 # Model Arch
-
+![Model](https://github.com/white07S/Forex-Recovery/blob/main/model/model.png)
